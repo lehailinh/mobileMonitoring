@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileMonitoring</string>
+    <string name="database_ref">https://giamsatdienthoai.firebaseio.com/</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/hailinh/AndroidStudioProjects/MobileMonitoring/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder.png",
+        "source": "/home/hailinh/AndroidStudioProjects/MobileMonitoring/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.2.1/res/drawable-nodpi-v4/cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "/home/hailinh/AndroidStudioProjects/MobileMonitoring/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder_large.png",
+        "source": "/home/hailinh/AndroidStudioProjects/MobileMonitoring/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.2.1/res/drawable-nodpi-v4/cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "/home/hailinh/AndroidStudioProjects/MobileMonitoring/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_mini_controller_img_placeholder.png",
+        "source": "/home/hailinh/AndroidStudioProjects/MobileMonitoring/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.2.1/res/drawable-nodpi-v4/cast_mini_controller_img_placeholder.png"
+    }
+]
